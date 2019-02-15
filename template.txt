@@ -1,0 +1,7 @@
+Dear friend ${PERSON_NAME},
+	This Email Is automated by a python3 script and responding to it won't do any good.
+Thanks!
+
+Regards,
+Gaurav Misra
+IIITK
